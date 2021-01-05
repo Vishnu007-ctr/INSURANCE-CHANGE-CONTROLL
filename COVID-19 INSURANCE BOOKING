@@ -10,3 +10,8 @@ write "customer number"
 print "Enter Customer Address"
 write" customer address" 
 Print"Covid-19 Insurance Submited Sucessfully"
+// Extend the booking Of covid-19 Insurance 
+Int date
+Enter"exteded Date of Insurance"
+Write "Date"
+Print"Extended Date Is sucessfully Created"
