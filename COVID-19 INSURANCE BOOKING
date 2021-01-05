@@ -15,3 +15,8 @@ Int date
 Enter"exteded Date of Insurance"
 Write "Date"
 Print"Extended Date Is sucessfully Created"
+// Cancel the booking propsed by client 
+Print"Enter Customer number"
+write"customer number"
+Read booking id 
+print "Cancel booking"
