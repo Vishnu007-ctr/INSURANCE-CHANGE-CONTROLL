@@ -1,0 +1,12 @@
+\\ Booking COVID-19 Insurance prposed by change request from client 
+String custname
+int custnum
+string custaddress
+string covid-19 package
+print"enter customer name"
+write "customer name"
+print "Enter customer number"
+write "customer number"
+print "Enter Customer Address"
+write" customer address" 
+Print"Covid-19 Insurance Submited Sucessfully"
